@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="project.gif" alt="Search">
+<img src="https://raw.githubusercontent.com/CristhianFSantos/MultiplicationTable/master/Project.gif" alt="Search">
 </h1>
 
 ## 📖 Sobre o projeto
